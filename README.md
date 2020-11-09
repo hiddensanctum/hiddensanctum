@@ -1,5 +1,7 @@
 <h2>Hi there 👋</h2>
-<img align='right' src="https://github.com/hiddensanctum/hiddensanctum/blob/master/logo.png?raw=true" width="200" style="border-radius: 50%">
+<img align='right' src="https://github.com/hiddensanctum/hiddensanctum/blob/master/logo.png?raw=true" width="150" style="border-radius: 50%">
+<p><em>Software Engineer at Tyler Technologies</em></p><img src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="20">
+
 <!--
 **hiddensanctum/hiddensanctum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
