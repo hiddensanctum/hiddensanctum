@@ -1,7 +1,5 @@
-![banner](https://github.com/hiddensanctum/hiddensanctum/blob/master/banner.jpg?raw=true)
-
-### Hi there 👋
-
+<h2>Hi there 👋</h2>
+<img align='right' src="https://github.com/hiddensanctum/hiddensanctum/blob/master/logo.png?raw=true" width="200" style="border-radius: 50%">
 <!--
 **hiddensanctum/hiddensanctum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
