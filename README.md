@@ -2,6 +2,8 @@
 <img align='right' src="https://github.com/hiddensanctum/hiddensanctum/blob/master/logo.png?raw=true" width="200">
 <p><em>Software Engineer at Tyler Technologies</em> 💻</p>
 
+<a href="https://www.jlchuang.com/"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/home.svg" width="30" height="30">Portfolio Site</a>
+
 <!--
 **hiddensanctum/hiddensanctum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
